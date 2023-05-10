@@ -38,10 +38,8 @@ Docker Compose
 
 1. Clonez le référentiel :
 2. Accédez au répertoire du projet :
-3. Créez les conteneurs Docker :
-    docker-compose build
-4.Démarrez les conteneurs Docker :
-    docker-compose up -d
+3. Créez les conteneurs Docker : docker-compose build
+4. Démarrez les conteneurs Docker : docker-compose up -d
 
 ## License
 
